@@ -1,2 +1,2 @@
 # HelloNokia
-This is my first time of creating a new repository in Github.
+This is my first time to creat a new repository in Github.
