@@ -17,6 +17,7 @@ public class GameOfLife extends JFrame {
         repaint();
     }
 
+
     /*
     判断某个位置是不是活细胞
     1.这个位置必须是在边界里面
