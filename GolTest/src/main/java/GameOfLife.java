@@ -30,6 +30,7 @@ public class GameOfLife extends JFrame {
         }
     }
 
+
     /*
     获得单个细胞周围的8个相邻位置的活细胞数
      */
