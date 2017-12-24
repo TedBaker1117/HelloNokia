@@ -47,6 +47,7 @@ public class GameOfLife extends JFrame {
         return NeighborNum;
     }
 
+
     /*
     获取每个细胞周围的活细胞数
      */
