@@ -19,7 +19,7 @@ public class GameOfLifeTest {
         LifeTable[5][6]=true;
         LifeTable[5][7]=true;
         GameOfLife Gol=new GameOfLife(LifeTable,TableSize);
-        assertEquals(1,Gol.ifLiveCell(-2,-2));
+        assertEquals(0,Gol.ifLiveCell(-2,-2));
     }
 
     @Test
